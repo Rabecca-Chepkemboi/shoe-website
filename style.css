@@ -1,0 +1,317 @@
+.a{
+    display: flex;
+    gap: 30em;
+}
+.b{
+    display: flex;
+    gap: 3em;
+    font-weight: bold;
+}
+.c{
+    display: flex;
+    gap: 3em;
+}
+.ma{
+    color: red;
+}
+.me{
+    color: red;
+}
+.d{
+    padding-left: 5%;
+    font-size: 500%;
+    font-weight: bold;
+}
+.sum{
+    padding-left: 5%;
+    font-size: larger;
+    font-weight: bold;
+}
+.add{
+    display: flex;
+}
+.lay{
+    height: 300px;
+    width: 100%;
+    padding-left: 70%;
+}
+.bat{
+    margin-left: 5%;
+    padding: 16px 18px;
+    border-radius: 1em;
+    background-color: rgb(238, 71, 10);
+    color: white;
+    font-weight: bold;
+}
+.chair{
+    text-align: center;
+    font-size: 400%;
+    font-weight: bold;
+}
+.door{
+    
+    height: 25%;
+}
+.rain{
+    display: flex;
+    gap: 6em;
+    padding-left: 5%;
+}
+.may{
+    height: 25%;
+}
+.june{
+    width: 90%;
+    height: 25%;
+}
+.boat{
+    display: flex;
+}
+.ferry{
+    display: flex;
+}
+.ship{
+    display: flex;
+}
+.chat{
+    text-align: center;
+    font-size: 400%;
+    font-weight: bold;
+}
+.run{
+    display: flex;
+    gap: 1em;
+    font-size: 200%;
+    font-weight: bold;
+}
+.man{
+    color: red;
+}
+.jan{
+    width: 60%;
+    
+}
+.feb{
+    width: 60%;
+    
+}
+
+.mar{
+    width: 60%;
+    
+}
+.apri{
+    width: 60%;
+    
+}
+.human{
+    display: flex;
+    gap: 2em;
+    padding-left: 9%;
+}
+.red{
+    width: 90%;
+}
+.green{
+    width: 90%;
+}
+.blue{
+    width: 40%;
+}
+.black{
+    width: 80%;
+}
+.house{
+    display: flex;
+    gap: 4em;
+    padding-left: 10%;
+}
+.lap{
+    margin-left: 50%;
+    padding: 18px 25px;
+    color: red;
+    font-weight: bold;
+    border: 2px solid red;
+    border-radius: 1em;
+}
+.char{
+    text-align: center;
+    font-size: 400%;
+    font-weight: bold;
+}
+.book{
+    display: flex;
+}
+.paper{
+    width: 80%;
+}
+.cover{
+    width: 70%;
+    padding-left: 10%;
+}
+.water{
+    display: flex;
+}
+.ocean{
+    display: flex;
+    gap: 4em;
+}
+.mat{
+    display: flex;
+    gap: 20em;
+}
+.beach{
+    padding-left: 90%;
+    padding: 50px 60px;
+    background-color: antiquewhite;
+    border-radius: 1em;
+}
+.bus{
+    padding-left: 2%;
+}
+.valley{
+    display: flex;
+    padding-left: 9%;
+    gap: 6em;
+    background-color: rgb(241, 87, 87);
+    color: white;
+
+}
+li{
+    list-style: none;
+    line-height: 40px;
+}
+.bit{
+    padding-left: 20%;
+}
+.mara{
+    color: black;
+    font-weight: bold;
+    font-size: 200%;
+}
+.but{
+    padding: 9px 18px;
+    background-color: rgb(233, 92, 92);
+    font-weight: bold;
+    color: white;
+}
+.bool{
+    color: black;
+    font-weight: bold;
+    font-size: 200%;
+}
+.boot{
+    padding: 9px 18px;
+    background-color: rgb(233, 92, 92);
+    font-weight: bold;
+    color: white;
+}
+.earth{
+    color: black;
+    font-weight: bold;
+    font-size: 200%;
+}
+.venus{
+    padding: 9px 18px;
+    background-color: rgb(233, 92, 92);
+    font-weight: bold;
+    color: white;
+}
+.low{
+    color: red;
+    font-weight: bold;
+    font-size: 150%;
+}
+.up{
+    font-weight: bold;
+    font-size: 220%;
+}
+.win{
+    padding: 90px 100px;
+    background-color: pink;
+    color: black;
+    border-radius: 1em;
+}
+.won{
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+}
+.loss{
+    text-align: center;
+}
+.buy{
+    padding: 12px 13px;
+    border-radius: 1em;
+}
+.bol{
+    padding: 12px 13px;
+    border-radius: 1em;
+    background-color: rgb(173, 54, 54);
+    color: white;
+}
+.i{
+    font-size: 150%;
+    color: red;
+    font-weight: bold;
+}
+.j{
+    color: red;
+}
+.k{
+    font-size: 150%;
+    color: red;
+    font-weight: bold;
+}
+.mul{
+    color: red;
+}
+.much{
+    padding-right: 10%;
+}
+.more{
+    text-align: center;
+    font-size: small;
+}
+.much{
+    text-align: center;
+    font-size: small;
+}
+.ma{
+    padding: 1px 29px;
+    background-color: rgb(235, 128, 128);
+    color: white;
+    font-size: small;
+    border-radius: 1em;
+    font-size: small;
+}
+.bail{
+    display: flex;
+    gap: 4em;
+}
+.burn{
+    display: flex;
+    gap: 4em;
+}
+.where{
+    padding: 2px 29px;
+    border-radius: 1em;
+    color: red;
+    border: 2px solid red;
+    font-size: small;
+}
+.how{
+    padding: 1px 29px;
+    background-color: rgb(235, 128, 128);
+    color: white;
+    font-size: small;
+    border-radius: 1em;
+    font-size: small;
+}
+.why{
+    padding: 2px 29px;
+    border-radius: 1em;
+    color: red;
+    border: 2px solid red;
+    font-size: small;
+}
