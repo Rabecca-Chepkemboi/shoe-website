@@ -1,15 +1,23 @@
 .a{
     display: flex;
-    gap: 30em;
+    gap: 10em;
+}
+body{
+    background-color: rgba(230, 230, 230, 0.979);
 }
 .b{
     display: flex;
-    gap: 3em;
+    gap: 2em;
     font-weight: bold;
+    padding-left: 14%;
+}
+.second{
+    background-image: url(/image/bec.png);
 }
 .c{
     display: flex;
-    gap: 3em;
+    gap: 2em;
+    padding-left: 15%;
 }
 .ma{
     color: red;
@@ -18,14 +26,13 @@
     color: red;
 }
 .d{
-    padding-left: 5%;
-    font-size: 500%;
+    padding-left: 35%;
+    font-size: 400%;
     font-weight: bold;
 }
 .sum{
-    padding-left: 5%;
-    font-size: larger;
-    font-weight: bold;
+    padding-left: 35%;
+    font-size: large;
 }
 .add{
     display: flex;
@@ -34,9 +41,10 @@
     height: 300px;
     width: 100%;
     padding-left: 70%;
+    padding-top: 20%;
 }
 .bat{
-    margin-left: 5%;
+    margin-left: 14%;
     padding: 16px 18px;
     border-radius: 1em;
     background-color: rgb(238, 71, 10);
@@ -45,24 +53,24 @@
 }
 .chair{
     text-align: center;
-    font-size: 400%;
+    font-size: 300%;
     font-weight: bold;
 }
 .door{
-    
-    height: 25%;
+    height: 60%;
+    transform: rotate(-30deg);
 }
 .rain{
     display: flex;
-    gap: 6em;
-    padding-left: 5%;
+    
 }
 .may{
-    height: 25%;
+    height: 60%;
+    transform: rotate(-30deg);
 }
 .june{
-    width: 90%;
-    height: 25%;
+    height: 60%;
+    transform: rotate(-30deg);
 }
 .boat{
     display: flex;
@@ -75,10 +83,11 @@
 }
 .chat{
     text-align: center;
-    font-size: 400%;
+    font-size: 300%;
     font-weight: bold;
 }
 .run{
+    padding-left: 8.5%;
     display: flex;
     gap: 1em;
     font-size: 200%;
@@ -88,43 +97,47 @@
     color: red;
 }
 .jan{
-    width: 60%;
-    
+    width: 70%;
+    transform: rotate(20deg)
 }
 .feb{
-    width: 60%;
-    
+    width: 70%;
+    transform: rotate(20deg)
 }
 
 .mar{
-    width: 60%;
-    
+    width: 70%;
+    transform: rotate(20deg)
 }
 .apri{
-    width: 60%;
-    
+    width: 70%;
+    transform: rotate(20deg)
 }
 .human{
     display: flex;
     gap: 2em;
-    padding-left: 9%;
+    padding-left: 6%;
 }
 .red{
-    width: 90%;
+    width: 70%;
+    transform: rotate(-20deg);
 }
 .green{
-    width: 90%;
+    width: 70%;
+    transform: rotate(-20deg);
 }
 .blue{
-    width: 40%;
+    width: 70%;
+    transform: rotate(-20deg);
 }
 .black{
-    width: 80%;
+    width: 70%;
+    transform: rotate(-20deg);
 }
 .house{
     display: flex;
-    gap: 4em;
-    padding-left: 10%;
+    gap: 2em;
+    padding-left: 6%;
 }
 .lap{
     margin-left: 50%;
@@ -136,7 +149,7 @@
 }
 .char{
     text-align: center;
-    font-size: 400%;
+    font-size: 300%;
     font-weight: bold;
 }
 .book{
@@ -154,7 +167,8 @@
 }
 .ocean{
     display: flex;
-    gap: 4em;
+    gap: 2em;
+    padding-left: 6%;
 }
 .mat{
     display: flex;
@@ -172,7 +186,7 @@
 .valley{
     display: flex;
     padding-left: 9%;
-    gap: 6em;
+    gap: 4em;
     background-color: rgb(241, 87, 87);
     color: white;
 
@@ -181,9 +195,7 @@ li{
     list-style: none;
     line-height: 40px;
 }
-.bit{
-    padding-left: 20%;
-}
+
 .mara{
     color: black;
     font-weight: bold;
@@ -277,8 +289,8 @@ li{
     text-align: center;
     font-size: small;
 }
-.ma{
-    padding: 1px 29px;
+.ball{
+    
     background-color: rgb(235, 128, 128);
     color: white;
     font-size: small;
@@ -287,21 +299,21 @@ li{
 }
 .bail{
     display: flex;
-    gap: 4em;
+    gap: 1em;
 }
 .burn{
     display: flex;
-    gap: 4em;
+    gap: 1em;
 }
 .where{
-    padding: 2px 29px;
+    
     border-radius: 1em;
     color: red;
     border: 2px solid red;
     font-size: small;
 }
 .how{
-    padding: 1px 29px;
+    
     background-color: rgb(235, 128, 128);
     color: white;
     font-size: small;
@@ -309,9 +321,84 @@ li{
     font-size: small;
 }
 .why{
-    padding: 2px 29px;
+    
     border-radius: 1em;
     color: red;
     border: 2px solid red;
     font-size: small;
+}
+.first{
+    
+    padding: 16px 13px;
+    border-radius: 2em;
+    background-color: rgb(216, 15, 15);
+    color: white;
+}
+.fifth{
+    padding-top: 2%;
+}
+.phone{
+    font-weight: bold;
+}
+.play{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.stop{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.continue{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.resume{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.maroon{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.grey{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.pink{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.pich{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.file{
+    font-weight: bold;
+    font-size: 130%;
+}
+.edit{
+    font-weight: bold;
+    font-size: 130%;
+}
+.go{
+    background-color: black;
+    color: white;
+    border-radius: 1em;
+}
+.help{
+    display: flex;
+    gap: 1em;
+    padding-left: 13%;
+}
+.view{
+    width: 40%;
+    padding-left: 10%;
 }
